@@ -4,11 +4,11 @@ Hi 👋 My name is Khushi Tulshyan
 Software Engineer
 -----------------
 
-I am a backend developer who is exploring AWS services, GenAI, CI/CD!
+Studied Computer Science at Mody University, India
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [https://www.linkedin.com/in/khushi-tulshyan-b22b1b1ba/](mailto:https://www.linkedin.com/in/khushi-tulshyan-b22b1b1ba/)
-* 🧠  I'm currently learning AWS services, AI & ML
+* 🧠  I'm currently learning about AWS Associate Developer Certification
 * 💬  Ask me about I love tea , soo we can start any conversation from there!
 
 <p align="left">
